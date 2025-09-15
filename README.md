@@ -35,7 +35,3 @@ This will start the application, and you can access it in your web browser.
 3. Enter your age (Age).
 4. Select your embarkation point (Embarked) from the dropdown.
 5. Click on the "Survival Probability" button to see if you are predicted to survive.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
